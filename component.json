@@ -6,9 +6,9 @@
     "src/uri.js",
     "src/punycode.js",
     "src/ipv6.js", 
-    "src/SecondLevelDomains.js"
-
+    "src/SecondLevelDomains.js",
+    "src/uri.fragmentQuery.js"
   ],
-  "main": "src/uri.js", 
+  "main": "index.js", 
   "license": "MIT"
 }
