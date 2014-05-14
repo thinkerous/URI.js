@@ -1,0 +1,14 @@
+{
+  "name": "urijs",
+  "version": "1.13.1",
+  "description": "Handles URI manipulation for JS",
+  "scripts": [
+    "src/uri.js",
+    "src/punycode.js",
+    "src/ipv6.js", 
+    "src/SecondLevelDomains.js"
+
+  ],
+  "main": "src/uri.js", 
+  "license": "MIT"
+}
